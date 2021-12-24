@@ -1,4 +1,6 @@
-/* Not used, for now */
-* {
-    font-family: sans-serif;
+h1 {
+	font-family: la-bohemienne, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 5rem;
 }
